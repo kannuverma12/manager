@@ -1,0 +1,4 @@
+com/kv/funds/manager/service/impl/AccountServiceImplTest.class
+com/kv/funds/manager/repository/ConcurrencyTest.class
+com/kv/funds/manager/repository/AccountRepositoryTest.class
+com/kv/funds/manager/controller/FundsControllerTest.class
